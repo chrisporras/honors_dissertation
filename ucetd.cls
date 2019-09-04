@@ -23,8 +23,10 @@
 	\null\vfill
 	\centerline{Copyright \copyright\ \number\year\ by \@author}
 	\centerline{All Rights Reserved}
+	\center{Freely available under a CC-BY 4.0 International license}
 	\vskip 15pt\relax
 }
+%\href{https://creativecommons.org/license/by/4.0/}{CC-BY 4.0 International license}
 
 % Preliminary sections following the table of contents and preceding the body are front matter
 \newcommand{\etdFrontMatter}[1]{
@@ -66,7 +68,7 @@
 			\vspace{0.8in}
 			A DISSERTATION SUBMITTED TO\\
 			THE FACULTY OF THE DIVISION OF THE \MakeUppercase{\@division}\\
-			IN CANDIDACY FOR THE DEGREE OF\\
+			IN CANDIDACY FOR RESEARCH HONORS IN THE DEGREE OF\\
 			\MakeUppercase{\@degree}\\
 			\ \\
 			DEPARTMENT OF \MakeUppercase{\@department}\\
